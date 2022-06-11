@@ -1,0 +1,18 @@
+{
+  "name": "@backlight-dev/sitewizzards.svelte-l49o2fwi",
+  "version": "2.0.4",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve FXLNMukcGEbmk6Mh2rt6 --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.0.0"
+  },
+  "dependencies": {
+    "svelte": "^3.44.0"
+  }
+}
